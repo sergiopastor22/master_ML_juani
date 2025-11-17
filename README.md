@@ -10,7 +10,7 @@ comparan:
   distribución (media, varianza, ancho de los IC),
 - el cumplimiento (o no) de la regla **68–95–99.7** en cada caso.
 
-El trabajo está basado en las instrucciones de los repositorios proporcionados, especialemtne el tercero.
+El trabajo está basado en las instrucciones de los tutoriales proporcionados en el repositorio, especialmente el tercero.
 
 ## Contenido del repositorio
 
